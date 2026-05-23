@@ -1,139 +1,162 @@
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=340&text=Ritesh%20Kanara&fontAlign=50&fontAlignY=38&desc=Full%20Stack%20Developer%20•%20Backend%20Engineer%20•%20Modern%20UI%20Builder&descAlign=50&descAlignY=60&animation=fadeIn&fontSize=70&fontColor=ffffff&color=0:030712,50:0F172A,100:1E293B" width="100%" />
-
-<br>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=SF+Pro+Display&weight=700&size=28&duration=2800&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=Building+Products+That+Feel+Premium;Backend+Architecture+%2B+Beautiful+UI;Creating+Scalable+Real+World+Applications;MERN+Stack+Developer;Always+Learning+Always+Building" />
-
-<br><br>
-
-<img src="https://img.shields.io/github/followers/Riteshkanara?style=for-the-badge&logo=github&label=FOLLOWERS&color=111827" />
-<img src="https://img.shields.io/github/stars/Riteshkanara?style=for-the-badge&logo=github&label=TOTAL%20STARS&color=1E293B" />
-<img src="https://komarev.com/ghpvc/?username=Riteshkanara&style=for-the-badge&color=0EA5E9" />
-
-<br><br>
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0d1117,100:1f6feb&text=RITESH%20KANARA&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=Full%20Stack%20Developer%20•%20MERN%20Engineer%20•%20Java%20DSA&descAlignY=56&animation=fadeIn" width="100%" /><br/><img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=850&lines=Building+scalable+full-stack+experiences;Crafting+production-grade+MERN+applications;Turning+ideas+into+interactive+products;Java+%7C+DSA+%7C+System+Design+Learner" /><br/><br/>
 
 <a href="https://github.com/Riteshkanara">
-<img src="https://skillicons.dev/icons?i=github" width="52" />
-</a>
-
-<a href="https://www.linkedin.com/in/ritesh-kanara-ahir-966677244">
-<img src="https://skillicons.dev/icons?i=linkedin" width="52" />
-</a>
-
-<a href="https://leetcode.com/">
-<img src="https://skillicons.dev/icons?i=stackoverflow" width="52" />
-</a>
-
-<a href="https://vercel.com/">
-<img src="https://skillicons.dev/icons?i=vercel" width="52" />
-</a>
-
-</div>
-
----
-
-# ⚡ Developer Identity
-
-```yaml
-name: Ritesh Kanara
-location: Gujarat, India
-role: Full Stack Developer
-
-specialization:
-  - Backend Engineering
-  - REST API Architecture
-  - Modern UI/UX
-  - Scalable Web Applications
-
-currently_building:
-  - VideoTube
-  - Developer Portfolio
-  - Backend Systems
-
-philosophy:
-  - Build minimal
-  - Design premium
-  - Think scalable
-
-
----
-
-🧠 Tech Universe
-
-<div align="center"><img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,java,cpp,python,ts,js,mysql,docker,git,github,linux,tailwind,figma,vscode&perline=6" /></div>
----
-
-🎬 Flagship Project
-
-<div align="center"><a href="https://github.com/Riteshkanara/VideoTube.in">
-<img width="95%" src="https://github-readme-stats.vercel.app/api/pin/?username=Riteshkanara&repo=VideoTube.in&theme=tokyonight&hide_border=true&border_radius=24" />
-</a></div><br><div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,100:1E293B&height=2" width="100%" /></div>🚀 VideoTube — Full Stack Video Platform
-
-A modern production-style video platform inspired by YouTube with scalable backend architecture and clean UI experience.
-
-✨ Core Features
-
-JWT Authentication System
-
-Video Upload & Streaming
-
-Likes & Comments
-
-Channel Subscriptions
-
-Cloudinary Media Integration
-
-REST API Architecture
-
-Responsive Frontend
-
-Clean Folder Structure
-
-Production-Level Backend Design
-
-
-
----
-
-📊 GitHub Intelligence
-
-<div align="center"><img width="49%" src="https://github-readme-stats.vercel.app/api?username=Riteshkanara&show_icons=true&theme=tokyonight&hide_border=true&border_radius=22&rank_icon=github" /><img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Riteshkanara&theme=tokyonight&hide_border=true&border_radius=22" /></div><br><div align="center"><img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Riteshkanara&theme=tokyo-night&hide_border=true&radius=18" /></div>
----
-
-🏆 Achievement Wall
-
-<div align="center"><img src="https://github-profile-trophy.vercel.app/?username=Riteshkanara&theme=algolia&no-frame=true&margin-w=12&margin-h=12&column=4" /></div>
----
-
-🌌 Contribution Snake
-
-<div align="center"><img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" /></div>
----
-
-🌐 Digital Presence
-
-<div align="center"><a href="https://github.com/Riteshkanara">
-<img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white"/>
 </a><a href="https://www.linkedin.com/in/ritesh-kanara-ahir-966677244">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a><a href="https://leetcode.com/">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-</a><a href="https://vercel.com/">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-</a></div>
----
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a><a href="https://leetcode.com/u/Ritesh-Kanara">
+  <img src="https://img.shields.io/badge/LeetCode-0D1117?style=for-the-badge&logo=leetcode&logoColor=FFA116"/>
+</a><a href="mailto:riteshkanara7777@gmail.com">
+  <img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
+</a><br/><img src="https://komarev.com/ghpvc/?username=Riteshkanara&style=for-the-badge&color=0d1117"/></div>---
 
-💭 Engineering Mindset
+/ about.me
 
-<div align="center">> “I build products that combine scalable engineering with premium user experience.”
+<table>
+<tr>
+<td width="58%" valign="top">> whoami
 
+Name        :: Ritesh Kanara
+Role        :: Full Stack Developer
+Location    :: Gandhinagar, Gujarat, India
+Education   :: B.Tech CSE (2023–2027)
+University  :: Gandhinagar University
+CGPA        :: 8.25
+Status      :: Open to internships & freelance work
+Focus       :: MERN • Backend Systems • Java DSA
 
+<br/>- ⚡ Building scalable full-stack applications with modern MERN architecture
+- 🧠 Solved 180+ LeetCode problems in Java
+- 🚀 Shipping production apps with Vercel + Railway
+- 📚 Exploring backend scaling, clean architecture & cloud fundamentals
+- 🎯 Obsessed with performance, UI polish & developer experience
 
-</div>
----
+</td><td width="42%" valign="top"><img src="https://github-readme-stats.vercel.app/api?username=Riteshkanara&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9&icon_color=58A6FF" width="100%" /></td>
+</tr>
+</table>---
 
-<div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:030712,50:0F172A,100:1E293B" width="100%" /></div>
-```
+/ tech.stack
+
+<div align="center"><img src="https://skillicons.dev/icons?i=react,nextjs,js,tailwind,nodejs,express,mongodb,firebase,aws,vercel,git,github,linux,vscode,postman&theme=dark" /><br/><br/>
+
+<table>
+<tr>
+<td align="center" width="33%">FRONTEND
+
+React.js • Next.js
+Tailwind CSS • Vite
+JavaScript ES6+
+Axios • Zustand
+
+</td><td align="center" width="33%">BACKEND
+
+Node.js • Express.js
+REST APIs • JWT
+Bcrypt • Multer
+MVC Architecture
+
+</td><td align="center" width="33%">DATABASE & CLOUD
+
+MongoDB • Mongoose
+Aggregation Pipelines
+Firebase • Railway
+Cloudinary • AWS Basics
+
+</td>
+</tr>
+</table></div>---
+
+/ featured.projects
+
+<details>
+<summary>
+  <b>🎬 VideoTube.in — Production Grade Video Sharing Platform</b>
+</summary><br/><div align="center"><a href="https://video-tube-in-final.vercel.app/">
+  <img src="https://img.shields.io/badge/LIVE-DEMO-0d1117?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a><a href="https://github.com/Riteshkanara/VideoTube.in">
+  <img src="https://img.shields.io/badge/REPOSITORY-111111?style=for-the-badge&logo=github&logoColor=white"/>
+</a></div><br/>Architecture:
+Frontend  → React + Tailwind + Zustand
+Backend   → Node.js + Express MVC APIs
+Database  → MongoDB Aggregation Pipelines
+Deployment→ Vercel + Railway
+Media CDN → Cloudinary
+
+Highlights
+
+- JWT authentication with refresh/access token rotation
+- HttpOnly cookie-based secure auth system
+- 20+ RESTful API endpoints
+- Aggregation pipelines for feeds, analytics & subscriptions
+- Async media pipeline using Multer + Cloudinary
+- Watch history, likes, comments & channel subscriptions
+
+</details><br/><details>
+<summary>
+  <b>🧠 DevNotes — Smart Notes & Snippet Manager</b>
+</summary><br/><div align="center"><a href="https://github.com/Riteshkanara/DevNotes">
+  <img src="https://img.shields.io/badge/REPOSITORY-111111?style=for-the-badge&logo=github&logoColor=white"/>
+</a></div><br/>Built for developers who want speed, organization & focus.
+
+Highlights
+
+- Protected JWT authentication
+- User-specific secure data isolation
+- Debounced real-time search
+- Zustand global state management
+- Filterable notes by tags & timestamps
+- React Router v6 protected routing
+
+</details>---
+
+/ coding.activity
+
+<div align="center"><img src="https://github-profile-trophy.vercel.app/?username=Riteshkanara&theme=onestar&no-frame=true&row=1&column=6&margin-w=12&margin-h=12" width="100%" /><br/><br/>
+
+<table>
+<tr>
+<td width="50%"><img src="https://github-readme-streak-stats.herokuapp.com?user=Riteshkanara&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" width="100%" /></td><td width="50%"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Riteshkanara&layout=compact&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9" width="100%" /></td>
+</tr>
+</table><br/><img src="https://github-readme-activity-graph.vercel.app/graph?username=Riteshkanara&bg_color=0d1117&color=58A6FF&line=58A6FF&point=ffffff&hide_border=true" width="100%" /></div>---
+
+/ leetcode.stats
+
+<div align="center"><img src="https://leetcard.jacoblin.cool/Ritesh-Kanara?theme=dark&font=Space%20Grotesk&ext=heatmap" width="85%" /></div>---
+
+/ achievements.log
+
+<div align="center"><table>
+<tr>
+<td align="center" width="25%">
+<h2>180+</h2>
+LeetCode Problems
+</td><td align="center" width="25%">
+<h2>2</h2>
+Production Apps
+</td><td align="center" width="25%">
+<h2>8.25</h2>
+CGPA
+</td><td align="center" width="25%">
+<h2>2027</h2>
+Graduation Year
+</td>
+</tr>
+</table></div>---
+
+/ contribution.snake
+
+<div align="center"><img src="https://raw.githubusercontent.com/Riteshkanara/Riteshkanara/output/github-contribution-grid-snake-dark.svg" width="100%" /></div>---
+
+/ connect
+
+<div align="center">Always building.
+Always learning.
+Always shipping.
+
+<br/><a href="mailto:riteshkanara7777@gmail.com">
+  <img src="https://img.shields.io/badge/Let's%20Collaborate-0d1117?style=for-the-badge&logo=maildotru&logoColor=58A6FF"/>
+</a><br/><br/>
+
+«“I don’t just build projects. I engineer experiences people remember.”»
+
+</div><img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:0d1117,100:1f6feb"/>
