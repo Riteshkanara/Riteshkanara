@@ -142,7 +142,7 @@ const ritesh = {
 
 ### 🎬 VideoTube — Full-Stack Video Sharing Platform
 
-> 🚀 **Production Deployed** → [video-tube-in-final.vercel.app](https://video-tube-in-final.vercel.app) &nbsp;|&nbsp; 40+ Git Commits &nbsp;|&nbsp; Solo Built
+> 🚀 **Production Deployed** →(https://videotube-riteshkanara.vercel.app/) &nbsp;|&nbsp; 50+ Git Commits &nbsp;|&nbsp; Solo Built
 
 | Layer | Details |
 |---|---|
