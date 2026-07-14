@@ -263,7 +263,7 @@ const ritesh = {
 | 📧 Email | [riteshkanara7777@gmail.com](mailto:riteshkanara7777@gmail.com) |
 | ⚡ LeetCode | [leetcode.com/u/Ritesh-Kanara](https://leetcode.com/u/Ritesh-Kanara) |
 | 🐙 GitHub | [github.com/Riteshkanara](https://github.com/Riteshkanara) |
-| 🔗 Live Demo | [video-tube-in-final.vercel.app](https://video-tube-in-final.vercel.app) |
+| 🔗 Live Demo | [video-tube-in-final.vercel.app](https://videotube-riteshkanara.vercel.app/) |
 
 <br/>
 
