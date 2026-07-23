@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- ANIMATED HEADER WAVE -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:035684,25:0f2744,50:1565c0,75:0d47a1,100:020817&height=280&section=header&text=Ritesh%20Kanara&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20MERN%20Developer%20%7C%20AI%20Builder%20%7C%20Open%20to%20Internships&descAlignY=58&descSize=16&descColor=90caf9" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:077684,25:0f2744,50:1565c0,75:0d47a1,100:020817&height=280&section=header&text=Ritesh%20Kanara&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20MERN%20Developer%20%7C%20AI%20Builder%20%7C%20Open%20to%20Internships&descAlignY=58&descSize=16&descColor=90caf9" width="100%"/>
 
 <!-- PROFILE VIEWS + FOLLOWERS BADGES -->
 <p>
